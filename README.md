@@ -22,7 +22,7 @@ Welcome to the Customer Banking System terminal application! This application al
    ```
 2. Navigate to the project directory:
    ```bash
-   cd banking-system
+   cd customer-banking
    ```
 
 ### Running the Application
